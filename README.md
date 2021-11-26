@@ -24,6 +24,6 @@ const escapeSpaces = ['age', 'birth year'];
 
 ## More Info
 
-For a description of how I wrote this see
+For a description of how I wrote this see [https://bradg.github.io/2021/11/25/Babel_macro_to_implement_ruby_percent_strings.html](https://bradg.github.io/2021/11/25/Babel_macro_to_implement_ruby_percent_strings.html)
 
 To write your own macros, take a look at the example babel-macro code at [https://github.com/kentcdodds/babel-plugin-macros-example](https://github.com/kentcdodds/babel-plugin-macros-example)
